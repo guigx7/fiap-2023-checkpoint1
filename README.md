@@ -1,4 +1,4 @@
-# Fiap-2023-checkpoint1
+# fiap-2023-checkpoint1
 Projeto desenvolvido no curso de [Sistemas de Informação](https://www.fiap.com.br/graduacao/bacharelado/sistemas-de-informacao/) 3º ano.
 
 # Desenvolvimento de uma API utilizando
